@@ -2,7 +2,7 @@
 
 <!-- Header & Preview Image -->
 <h1 align="center">
-  <img src="/imgages/" height="50%" width="50%">
+  <img src="/imgages/workflow.jpg" height="50%" width="50%">
 </h1>
 
 <!-- Shields -->
