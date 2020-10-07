@@ -10,7 +10,7 @@
   <a href="https://github.com/tallguyjenks/Obsidian-Workflow/blob/master/LICENSE">
     <img src="https://img.shields.io/static/v1.svg?style=flat&label=License&message=MIT&logoColor=eceff4&logo=github&colorA=black&colorB=green"/>
   </a>
-  <img src="https://img.shields.io/github/commit-activity/m/tallguyjenks//Obsidian-Workflow">
+  <img src="https://img.shields.io/github/commit-activity/m/tallguyjenks/Obsidian-Workflow">
   <a href="https://github.com/tallguyjenks/Obsidian-Workflow/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/tallguyjenks/Obsidian-Workflow">
   </a>
