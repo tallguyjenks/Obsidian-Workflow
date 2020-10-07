@@ -24,5 +24,5 @@ I'll try to be as responsive as possible in reviewing and accepting pull request
 
 I appreciate your contributions very much!
 
-[1]: <REPO URL>/issues/new
-[2]: <REPO URL>/compare
+[1]: https://github.com/tallguyjenks/Obsidian-Workflow/issues/new
+[2]: https://github.com/tallguyjenks/Obsidian-Workflow/compare
